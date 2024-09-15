@@ -1,0 +1,10 @@
+var nma = " Nikmatulhusnah abdullah"
+var almt = "Kel.Dulalowo Kec. Kota tengah Kota Gorontalo"
+var kelas = "Pti A"
+var asal = "Kel.Dulalowo Kec. Kota tengah Kota Gorontalo"
+var mk  = "Algroitma dan Perograman"
+document.write('NAMA = '+ nma +"<br>" +"<td></td>");
+document.write('ALAMAT = '+ almt +"<br>");
+document.write('KELAS = '+ kelas+"<br>");
+document.write('ASAL = '+ asal+"<br>");
+document.write('MATA KULIAH = '+ mk +"<br>");
